@@ -20,8 +20,6 @@ Let's say Mohan is a LinkedIn influencer and he needs help in writing his future
 3. Run the streamlit app:
    ```commandline
    streamlit run main.py
-   ```
-Copyright (C) Codebasics Inc. All rights reserved.
 
 
 **Additional Terms:**
